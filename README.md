@@ -1,2 +1,2 @@
 # dumb-NLP-tasks
-A collection of random, silly, an just plain dumb NLP task ideas
+A collection of random, silly, and just plain dumb NLP task ideas
